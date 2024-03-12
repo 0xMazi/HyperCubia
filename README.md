@@ -1,5 +1,8 @@
 # hypercubia.aleo
 
+# author
+niga0986
+
 ## Build Guide
 
 To compile this Aleo program, run:
